@@ -1,0 +1,46 @@
+### Module positions - created on 09/12/18 17:07:49 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                        PosX       PosY       Rot  Side
+C1        C               C_0603                                     222.4150     9.8150   90.0000  top
+C2        CP              CP_Tantalum_Case-D_EIA-7343-31_Reflow      147.9550    13.9700  270.0000  top
+C3        C               C_0603                                     146.2150    25.6900  180.0000  top
+C4        CP              CP_Tantalum_Case-D_EIA-7343-31_Reflow      157.0100    15.5300  270.0000  top
+C5        C               C_0603                                      85.2550    33.3100   90.0000  top
+C6        C               C_0603                                     254.8000     9.0650  270.0000  top
+C7        C               C_0603                                      97.4350    37.1200    0.0000  top
+C8        C               C_0603                                     202.6150    21.8800    0.0000  top
+C9        CP              CP_Tantalum_Case-D_EIA-7343-31_Reflow      313.8550     6.6400    0.0000  top
+C10       CP              CP_Tantalum_Case-D_EIA-7343-31_Reflow       55.4100    22.5150  270.0000  top
+C11       C               C_0603                                     191.2500     5.7150    0.0000  top
+D2        D_Zener         D_SOD-323                                  202.7300    26.9600  180.0000  top
+D3        D_Zener         D_SOD-323                                  146.2150    22.5150  180.0000  top
+D4        LED             D_0603                                     212.4405     3.7674    0.0000  top
+D5        LED             D_0603                                     164.2100    23.7850    0.0000  top
+J2        AVR-ISP-6       Pin_Header_Straight_2x03_Pitch2.54mm_SMD   212.2550    32.0400   90.0000  top
+JP1       Jumper          R_2512                                      93.5100    23.0750  270.0000  top
+JP2       Jumper          R_2512                                      78.9050    23.2250   90.0000  top
+JP3       Jumper          R_2512                                     169.0750     4.1000    0.0000  top
+JP4       Jumper          R_2512                                     169.7850    16.8000    0.0000  top
+JP5       Jumper          R_2512                                     223.7600    13.6250    0.0000  top
+L1        INDUCTOR        L_Vishay_IHLP-4040                          12.3278     8.9528  180.0000  top
+L2        INDUCTOR        L_Vishay_IHLP-4040                         340.0000    34.0000    0.0000  top
+Q1        Q_PMOS_GDS      TO-252-3_TabPin2                           193.6300    22.7700  180.0000  top
+R1        R               R_0603                                     200.1900    19.9750  270.0000  top
+R2        R               R_0603                                     212.3700    39.6600    0.0000  top
+R3        R               R_0603                                     215.8305     3.7674  180.0000  top
+R4        R               R_0603                                     163.9950    19.9750    0.0000  top
+R5        R               R_0603                                      87.7950    33.4250  270.0000  top
+R6        R               R_0603                                     259.2450     9.1800   90.0000  top
+R7        R               R_1206                                     101.7650    34.4000  270.0000  top
+R8        R               R_1206                                     240.1950     6.8200   90.0000  top
+R9        R               R_0603                                     179.7050    12.0650  270.0000  top
+R10       R               R_0603                                     137.7950    39.8900   90.0000  top
+SW1       SW_Push         SW_SPST_B3S-1000                           191.1350    13.9700  270.0000  top
+TH1       Thermistor_PTC  R_1210                                     152.0631    24.2400  270.0000  top
+U2        LM78M05_TO252   TO-252-2                                   140.0800    13.1250  270.0000  top
+U3        ILD6070         PG-DSO-8-27                                 94.7800    33.3100  270.0000  top
+U4        ILD6070         PG-DSO-8-27                                247.8150     7.9100   90.0000  top
+Y1        Resonator       AWSCR-CV                                   222.0100    25.0550   90.0000  top
+## End

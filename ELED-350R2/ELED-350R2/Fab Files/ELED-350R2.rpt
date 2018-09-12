@@ -1,0 +1,1575 @@
+## Footprint report - date 09/12/18 17:08:11
+## Created by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 49.899999 49.899999
+lower_right_corner 400.100001 93.100001
+$EndBOARD
+
+$MODULE "C1"
+reference "C1"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 272.415000 83.185000  orientation 90.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C2"
+reference "C2"
+value "CP"
+footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow"
+attribut smd
+position 197.955000 79.030000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "C3"
+reference "C3"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 196.215000 67.310000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C4"
+reference "C4"
+value "CP"
+footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow"
+attribut smd
+position 207.010000 77.470000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C5"
+reference "C5"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 135.255000 59.690000  orientation 90.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C6"
+reference "C6"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 304.800000 83.935000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "C7"
+reference "C7"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 147.435000 55.880000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C8"
+reference "C8"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 252.615000 71.120000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C9"
+reference "C9"
+value "CP"
+footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow"
+attribut smd
+position 363.855000 86.360000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE "C10"
+reference "C10"
+value "CP"
+footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-D_EIA-7343-31_Reflow"
+attribut smd
+position 105.410000 70.485000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.175000  0.000000  size  2.550000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE "D2"
+reference "D2"
+value "D_Zener"
+footprint "Diodes_SMD:D_SOD-323"
+attribut smd
+position 252.730000 66.040000  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  1.050000  0.000000  size  0.600000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.050000  0.000000  size  0.600000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D3"
+reference "D3"
+value "D_Zener"
+footprint "Diodes_SMD:D_SOD-323"
+attribut smd
+position 196.215000 70.485000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -1.050000  0.000000  size  0.600000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  1.050000  0.000000  size  0.600000  0.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "D4"
+reference "D4"
+value "LED"
+footprint "Diodes_SMD:D_0603"
+attribut smd
+position 262.440500 89.232621  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  0.600000  0.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  0.600000  0.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D5"
+reference "D5"
+value "LED"
+footprint "Diodes_SMD:D_0603"
+attribut smd
+position 214.210000 69.215000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.850000  0.000000  size  0.600000  0.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.850000  0.000000  size  0.600000  0.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "D6"
+reference "D6"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 155.000000 71.500000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "D7"
+reference "D7"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 135.000000 71.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D7
+
+$MODULE "D8"
+reference "D8"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 115.000000 71.500000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D8
+
+$MODULE "D9"
+reference "D9"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 95.000000 71.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D9
+
+$MODULE "D10"
+reference "D10"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 75.000000 71.500000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D10
+
+$MODULE "D11"
+reference "D11"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 285.000000 71.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D11
+
+$MODULE "D12"
+reference "D12"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 315.000000 71.500000  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D12
+
+$MODULE "D13"
+reference "D13"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 335.000000 71.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D13
+
+$MODULE "D14"
+reference "D14"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 355.000000 71.500000  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D14
+
+$MODULE "D15"
+reference "D15"
+value "LED"
+footprint "DTL - KICad - Footprint:Cree XD16"
+attribut none
+position 375.000000 71.500000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.450000  0.000000  size  0.600000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D15
+
+$MODULE "J1"
+reference "J1"
+value "Screw_Terminal_01x06"
+footprint "DTL - KICad - Footprint:SPT-SMD 6 Pos Terminal"
+attribut none
+position 204.603121 58.922807  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -3.700000 -12.700000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -3.700000 -7.620000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -3.700000 -2.540000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -3.700000  2.540000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -3.700000  7.620000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position -3.700000 12.700000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  3.700000 -12.700000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.700000 -7.620000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  3.700000 -2.540000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  3.700000  2.540000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  3.700000  7.620000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  3.700000 12.700000  size  4.000000  1.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "J2"
+reference "J2"
+value "AVR-ISP-6"
+footprint "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm_SMD"
+attribut smd
+position 262.255000 60.960000  orientation 90.00
+layer front
+$PAD "6"
+Shape Rect Layer front
+position  2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "L1"
+reference "L1"
+value "INDUCTOR"
+footprint "Inductors_SMD:L_Vishay_IHLP-4040"
+attribut smd
+position 62.327807 84.047191  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -4.507500  0.000000  size  3.175000  4.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  4.507500  0.000000  size  3.175000  4.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L1
+
+$MODULE "L2"
+reference "L2"
+value "INDUCTOR"
+footprint "Inductors_SMD:L_Vishay_IHLP-4040"
+attribut smd
+position 390.000000 59.000000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  4.507500  0.000000  size  3.175000  4.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -4.507500  0.000000  size  3.175000  4.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L2
+
+$MODULE "Q1"
+reference "Q1"
+value "Q_PMOS_GDS"
+footprint "TO_SOT_Packages_SMD:TO-252-3_TabPin2"
+attribut smd
+position 243.630000 70.230000  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.425000  1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.775000 -1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.425000 -1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.775000  1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.100000  0.000000  size  6.400000  5.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -4.200000  2.280000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -4.200000  0.000000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -4.200000 -2.280000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q1
+
+$MODULE "R1"
+reference "R1"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 250.190000 73.025000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "R2"
+reference "R2"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 262.370000 53.340000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R3"
+reference "R3"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 265.830500 89.232621  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R4"
+reference "R4"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 213.995000 73.025000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R5"
+reference "R5"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 137.795000 59.575000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R6"
+reference "R6"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 309.245000 83.820000  orientation 90.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R7"
+reference "R7"
+value "R"
+footprint "Resistors_SMD:R_1206"
+attribut smd
+position 151.765000 58.600000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  1.450000  0.000000  size  0.900000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.450000  0.000000  size  0.900000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE "R8"
+reference "R8"
+value "R"
+footprint "Resistors_SMD:R_1206"
+attribut smd
+position 290.195000 86.180000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -1.450000  0.000000  size  0.900000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  1.450000  0.000000  size  0.900000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R8
+
+$MODULE "TH1"
+reference "TH1"
+value "Thermistor_PTC"
+footprint "Resistors_SMD:R_1210"
+attribut smd
+position 202.063121 68.760000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  1.450000  0.000000  size  0.900000  2.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.450000  0.000000  size  0.900000  2.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TH1
+
+$MODULE "TP1"
+reference "TP1"
+value "TestPoint"
+footprint "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big"
+attribut virtual
+position 251.460000 80.010000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  3.000000  3.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP1
+
+$MODULE "TP2"
+reference "TP2"
+value "TestPoint"
+footprint "Measurement_Points:Measurement_Point_Round-SMD-Pad_Big"
+attribut virtual
+position 251.460000 85.090000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  3.000000  3.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP2
+
+$MODULE "U1"
+reference "U1"
+value "ATtiny1634-SU"
+footprint "DTL - KICad - Footprint:ATTINY1634-SUR"
+attribut none
+position 262.255000 79.129999  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -4.690001 -5.715000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -4.690001 -4.445000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -4.690001 -3.175000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -4.690001 -1.905000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -4.690001 -0.635000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position -4.690001  0.635000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position -4.690001  1.905000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position -4.690001  3.175000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position -4.690001  4.445000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer front
+position -4.690001  5.715000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer front
+position  4.690001  5.715000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer front
+position  4.690001  4.445000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer front
+position  4.690001  3.175000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer front
+position  4.690001  1.905000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer front
+position  4.690001  0.635000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer front
+position  4.690001 -0.635000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer front
+position  4.690001 -1.905000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer front
+position  4.690001 -3.175000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer front
+position  4.690001 -4.445000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer front
+position  4.690001 -5.715000  size  1.981200  0.560800  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "U3"
+reference "U3"
+value "ILD6070"
+footprint "DTL - KICad - Footprint:PG-DSO-8-27"
+attribut smd
+position 144.780000 59.690000  orientation 270.00
+layer front
+$PAD "EP"
+Shape Rect Layer front
+position  0.000000  0.000000  size  3.000000  2.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  1.905000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  1.905000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.635000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  0.635000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -0.635000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position -0.635000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.905000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position -1.905000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U3
+
+$MODULE "U4"
+reference "U4"
+value "ILD6070"
+footprint "DTL - KICad - Footprint:PG-DSO-8-27"
+attribut smd
+position 297.815000 85.090000  orientation 90.00
+layer front
+$PAD "8"
+Shape Rect Layer front
+position -1.905000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.905000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position -0.635000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -0.635000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position  0.635000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.635000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  1.905000 -2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position  1.905000  2.845000  size  0.650000  1.310000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "EP"
+Shape Rect Layer front
+position  0.000000  0.000000  size  3.000000  2.650000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U4
+
+$MODULE "Y1"
+reference "Y1"
+value "Resonator"
+footprint "DTL - KICad - Footprint:AWSCR-CV"
+attribut smd
+position 272.010000 67.945000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -1.500000  0.000000  size  0.900000  4.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  0.000000  size  0.900000  4.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  1.500000  0.000000  size  0.900000  4.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Y1
+
+$MODULE "D1"
+reference "D1"
+value "DIODE"
+footprint "DTL - KICad - Footprint:STPS8H100G-TR"
+attribut none
+position 243.205000 60.325000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  0.000000  size 10.439400 11.455400  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "D16"
+reference "D16"
+value "D_Schottky"
+footprint "DTL - KICad - Footprint:STPS8H100G-TR"
+attribut none
+position 62.327807 64.047191  orientation 180.00
+layer front
+$PAD "3"
+Shape Rect Layer front
+position  2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  0.000000  size 10.439400 11.455400  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D16
+
+$MODULE "D17"
+reference "D17"
+value "D_Schottky"
+footprint "DTL - KICad - Footprint:STPS8H100G-TR"
+attribut none
+position 390.000000 79.000000  orientation 0.00
+layer front
+$PAD "3"
+Shape Rect Layer front
+position  2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  0.000000  size 10.439400 11.455400  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -2.640000  8.877300  size  0.990600  3.911600  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D17
+
+$MODULE "JP2"
+reference "JP2"
+value "Jumper"
+footprint "Resistors_SMD:R_2512"
+attribut smd
+position 128.905000 69.775000  orientation 90.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP2
+
+$MODULE "JP1"
+reference "JP1"
+value "Jumper"
+footprint "Resistors_SMD:R_2512"
+attribut smd
+position 143.510000 69.925000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP1
+
+$MODULE "JP3"
+reference "JP3"
+value "Jumper"
+footprint "Resistors_SMD:R_2512"
+attribut smd
+position 219.075000 88.900000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP3
+
+$MODULE "JP4"
+reference "JP4"
+value "Jumper"
+footprint "Resistors_SMD:R_2512"
+attribut smd
+position 219.785000 76.200000  orientation 0.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP4
+
+$MODULE "JP5"
+reference "JP5"
+value "Jumper"
+footprint "Resistors_SMD:R_2512"
+attribut smd
+position 273.760000 79.375000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.100000  0.000000  size  1.000000  3.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP5
+
+$MODULE "C11"
+reference "C11"
+value "C"
+footprint "Capacitors_SMD:C_0603"
+attribut smd
+position 241.250000 87.285000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.800000  0.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C11
+
+$MODULE "R9"
+reference "R9"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 229.705000 80.935000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R9
+
+$MODULE "SW1"
+reference "SW1"
+value "SW_Push"
+footprint "Buttons_Switches_SMD:SW_SPST_B3S-1000"
+attribut smd
+position 241.135000 79.030000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  3.975000  2.250000  size  1.550000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -3.975000  2.250000  size  1.550000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  3.975000 -2.250000  size  1.550000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -3.975000 -2.250000  size  1.550000  1.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1
+
+$MODULE "R10"
+reference "R10"
+value "R"
+footprint "Resistors_SMD:R_0603"
+attribut smd
+position 187.795000 53.110000  orientation 90.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.750000  0.000000  size  0.500000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE "U2"
+reference "U2"
+value "LM78M05_TO252"
+footprint "TO_SOT_Packages_SMD:TO-252-2"
+attribut smd
+position 190.080000 79.875000  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.425000  1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.775000 -1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  0.425000 -1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  3.775000  1.525000  size  3.050000  2.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position  2.100000  0.000000  size  6.400000  5.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -4.200000  2.280000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -4.200000 -2.280000  size  2.200000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$EndDESCRIPTION
