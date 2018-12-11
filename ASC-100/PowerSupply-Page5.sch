@@ -1,0 +1,407 @@
+EESchema Schematic File Version 4
+LIBS:ASC-100-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 5 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 2150 900  0    50   Input ~ 0
+VIN
+$Comp
+L Device:Q_PMOS_GDS Q?
+U 1 1 5BD9A0EF
+P 2700 1000
+F 0 "Q?" V 3043 1000 50  0000 C CNN
+F 1 "Q_PMOS_GDS" V 2952 1000 50  0000 C CNN
+F 2 "" H 2900 1100 50  0001 C CNN
+F 3 "~" H 2700 1000 50  0001 C CNN
+	1    2700 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Zener D?
+U 1 1 5BD9A1A6
+P 3050 1100
+F 0 "D?" V 3004 1179 50  0000 L CNN
+F 1 "D_Zener" V 3095 1179 50  0000 L CNN
+F 2 "" H 3050 1100 50  0001 C CNN
+F 3 "~" H 3050 1100 50  0001 C CNN
+	1    3050 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9A20E
+P 2700 1550
+F 0 "R?" H 2770 1596 50  0000 L CNN
+F 1 "R" H 2770 1505 50  0000 L CNN
+F 2 "" V 2630 1550 50  0001 C CNN
+F 3 "~" H 2700 1550 50  0001 C CNN
+	1    2700 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 950  3050 900 
+Wire Wire Line
+	3050 900  2900 900 
+Wire Wire Line
+	2700 1200 2700 1250
+Wire Wire Line
+	3050 1250 2700 1250
+Connection ~ 2700 1250
+Wire Wire Line
+	2700 1250 2700 1400
+Wire Wire Line
+	2150 900  2500 900 
+$Comp
+L power:GND #PWR?
+U 1 1 5BD9A2FB
+P 2700 1800
+F 0 "#PWR?" H 2700 1550 50  0001 C CNN
+F 1 "GND" H 2705 1627 50  0000 C CNN
+F 2 "" H 2700 1800 50  0001 C CNN
+F 3 "" H 2700 1800 50  0001 C CNN
+	1    2700 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1700 2700 1800
+$Comp
+L power:+24V #PWR?
+U 1 1 5BD9A361
+P 3050 850
+F 0 "#PWR?" H 3050 700 50  0001 C CNN
+F 1 "+24V" H 3065 1023 50  0000 C CNN
+F 2 "" H 3050 850 50  0001 C CNN
+F 3 "" H 3050 850 50  0001 C CNN
+	1    3050 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 900  3050 850 
+Connection ~ 3050 900 
+$Comp
+L Regulator_Switching:LM25085MY U?
+U 1 1 5BD9A474
+P 4550 1950
+F 0 "U?" H 4550 2517 50  0000 C CNN
+F 1 "LM25085MY" H 4550 2426 50  0000 C CNN
+F 2 "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm" H 4600 1500 50  0001 L CIN
+F 3 "http://www.ti.com/lit/ds/symlink/lm25085.pdf" H 4550 1950 50  0001 C CNN
+	1    4550 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9A5A8
+P 4000 1900
+F 0 "R?" H 4070 1946 50  0000 L CNN
+F 1 "R" H 4070 1855 50  0000 L CNN
+F 2 "" V 3930 1900 50  0001 C CNN
+F 3 "~" H 4000 1900 50  0001 C CNN
+	1    4000 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C?
+U 1 1 5BD9A62C
+P 3650 1900
+F 0 "C?" H 3768 1946 50  0000 L CNN
+F 1 "CP" H 3768 1855 50  0000 L CNN
+F 2 "" H 3688 1750 50  0001 C CNN
+F 3 "~" H 3650 1900 50  0001 C CNN
+	1    3650 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5BD9A6C1
+P 5100 1200
+F 0 "C?" H 5215 1246 50  0000 L CNN
+F 1 "C" H 5215 1155 50  0000 L CNN
+F 2 "" H 5138 1050 50  0001 C CNN
+F 3 "~" H 5100 1200 50  0001 C CNN
+	1    5100 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5BD9A7B5
+P 5500 1200
+F 0 "C?" H 5615 1246 50  0000 L CNN
+F 1 "C" H 5615 1155 50  0000 L CNN
+F 2 "" H 5538 1050 50  0001 C CNN
+F 3 "~" H 5500 1200 50  0001 C CNN
+	1    5500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9A853
+P 5900 1200
+F 0 "R?" H 5970 1246 50  0000 L CNN
+F 1 "R" H 5970 1155 50  0000 L CNN
+F 2 "" V 5830 1200 50  0001 C CNN
+F 3 "~" H 5900 1200 50  0001 C CNN
+	1    5900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9AAF8
+P 5250 1850
+F 0 "R?" V 5043 1850 50  0000 C CNN
+F 1 "R" V 5134 1850 50  0000 C CNN
+F 2 "" V 5180 1850 50  0001 C CNN
+F 3 "~" H 5250 1850 50  0001 C CNN
+	1    5250 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Schottky D?
+U 1 1 5BD9ACEB
+P 5900 2200
+F 0 "D?" V 5854 2279 50  0000 L CNN
+F 1 "D_Schottky" V 5945 2279 50  0000 L CNN
+F 2 "" H 5900 2200 50  0001 C CNN
+F 3 "~" H 5900 2200 50  0001 C CNN
+	1    5900 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Q_PMOS_GDS Q?
+U 1 1 5BD9AEAF
+P 5800 1650
+F 0 "Q?" H 6006 1604 50  0000 L CNN
+F 1 "Q_PMOS_GDS" H 6006 1695 50  0000 L CNN
+F 2 "" H 6000 1750 50  0001 C CNN
+F 3 "~" H 5800 1650 50  0001 C CNN
+	1    5800 1650
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:L L?
+U 1 1 5BD9B24A
+P 6650 1950
+F 0 "L?" V 6840 1950 50  0000 C CNN
+F 1 "L" V 6749 1950 50  0000 C CNN
+F 2 "" H 6650 1950 50  0001 C CNN
+F 3 "~" H 6650 1950 50  0001 C CNN
+	1    6650 1950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5BD9B3E2
+P 7150 2150
+F 0 "C?" H 7265 2196 50  0000 L CNN
+F 1 "C" H 7265 2105 50  0000 L CNN
+F 2 "" H 7188 2000 50  0001 C CNN
+F 3 "~" H 7150 2150 50  0001 C CNN
+	1    7150 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9B464
+P 7600 2150
+F 0 "R?" H 7670 2196 50  0000 L CNN
+F 1 "R" H 7670 2105 50  0000 L CNN
+F 2 "" V 7530 2150 50  0001 C CNN
+F 3 "~" H 7600 2150 50  0001 C CNN
+	1    7600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5BD9B4EA
+P 7600 2650
+F 0 "R?" H 7670 2696 50  0000 L CNN
+F 1 "R" H 7670 2605 50  0000 L CNN
+F 2 "" V 7530 2650 50  0001 C CNN
+F 3 "~" H 7600 2650 50  0001 C CNN
+	1    7600 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C?
+U 1 1 5BD9B52C
+P 8050 2150
+F 0 "C?" H 8168 2196 50  0000 L CNN
+F 1 "CP" H 8168 2105 50  0000 L CNN
+F 2 "" H 8088 2000 50  0001 C CNN
+F 3 "~" H 8050 2150 50  0001 C CNN
+	1    8050 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 1750 3650 1650
+Wire Wire Line
+	3650 1650 4000 1650
+Wire Wire Line
+	4000 1750 4000 1650
+Connection ~ 4000 1650
+Wire Wire Line
+	4000 1650 4150 1650
+Wire Wire Line
+	4000 2050 4000 2150
+Wire Wire Line
+	4000 2150 4150 2150
+Wire Wire Line
+	4550 2450 4550 2850
+Wire Wire Line
+	4550 2850 4450 2850
+Wire Wire Line
+	3650 2850 3650 2050
+Wire Wire Line
+	4450 2450 4450 2850
+Connection ~ 4450 2850
+Wire Wire Line
+	4450 2850 3650 2850
+Wire Wire Line
+	7600 2300 7600 2400
+Wire Wire Line
+	7600 2400 5050 2400
+Wire Wire Line
+	5050 2400 5050 2250
+Wire Wire Line
+	5050 2250 4950 2250
+Connection ~ 7600 2400
+Wire Wire Line
+	7600 2400 7600 2500
+Wire Wire Line
+	5900 2350 5900 2850
+Wire Wire Line
+	5900 2850 4550 2850
+Connection ~ 4550 2850
+Wire Wire Line
+	5900 2050 5900 1950
+Wire Wire Line
+	5900 1950 6500 1950
+Connection ~ 5900 1950
+Wire Wire Line
+	5900 1950 5900 1850
+Wire Wire Line
+	5900 1050 5900 900 
+Wire Wire Line
+	5900 900  5700 900 
+Wire Wire Line
+	3650 900  3650 1650
+Connection ~ 3650 1650
+Wire Wire Line
+	5900 1350 5900 1400
+Wire Wire Line
+	5100 1050 5100 900 
+Connection ~ 5100 900 
+Wire Wire Line
+	5100 900  3650 900 
+Wire Wire Line
+	5100 1350 5100 1650
+Wire Wire Line
+	5100 1650 4950 1650
+Wire Wire Line
+	4950 1850 5000 1850
+Wire Wire Line
+	5000 1850 5000 1700
+Wire Wire Line
+	5000 1700 5200 1700
+Wire Wire Line
+	5200 1700 5200 1400
+Wire Wire Line
+	5200 1400 5500 1400
+Wire Wire Line
+	5500 1400 5500 1350
+Connection ~ 5000 1850
+Wire Wire Line
+	5000 1850 5100 1850
+Wire Wire Line
+	5500 1050 5500 900 
+Connection ~ 5500 900 
+Wire Wire Line
+	5500 900  5100 900 
+Wire Wire Line
+	5400 1850 5450 1850
+Wire Wire Line
+	5450 1850 5450 1500
+Wire Wire Line
+	5450 1500 5700 1500
+Wire Wire Line
+	5700 1500 5700 900 
+Connection ~ 5700 900 
+Wire Wire Line
+	5700 900  5500 900 
+Wire Wire Line
+	4950 1950 5500 1950
+Wire Wire Line
+	5500 1950 5500 1650
+Wire Wire Line
+	5500 1650 5600 1650
+Wire Wire Line
+	5900 1400 5750 1400
+Wire Wire Line
+	5750 1400 5750 1550
+Wire Wire Line
+	5750 1550 5550 1550
+Wire Wire Line
+	5550 1550 5550 2050
+Wire Wire Line
+	4950 2050 5550 2050
+Connection ~ 5900 1400
+Wire Wire Line
+	5900 1400 5900 1450
+Wire Wire Line
+	6800 1950 7150 1950
+Wire Wire Line
+	7150 1950 7150 2000
+Wire Wire Line
+	7150 2300 7150 2850
+Wire Wire Line
+	7150 2850 5900 2850
+Connection ~ 5900 2850
+Wire Wire Line
+	7600 2800 7600 2850
+Wire Wire Line
+	7600 2850 7150 2850
+Connection ~ 7150 2850
+Wire Wire Line
+	7600 2850 8050 2850
+Wire Wire Line
+	8050 2850 8050 2300
+Connection ~ 7600 2850
+Wire Wire Line
+	7150 1950 7600 1950
+Wire Wire Line
+	8050 1950 8050 2000
+Connection ~ 7150 1950
+Wire Wire Line
+	7600 2000 7600 1950
+Connection ~ 7600 1950
+Wire Wire Line
+	7600 1950 8050 1950
+Wire Wire Line
+	3050 900  3650 900 
+Connection ~ 3650 900 
+$Comp
+L power:+12V #PWR?
+U 1 1 5BDA955A
+P 8050 1800
+F 0 "#PWR?" H 8050 1650 50  0001 C CNN
+F 1 "+12V" H 8065 1973 50  0000 C CNN
+F 2 "" H 8050 1800 50  0001 C CNN
+F 3 "" H 8050 1800 50  0001 C CNN
+	1    8050 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8050 1800 8050 1950
+Connection ~ 8050 1950
+$EndSCHEMATC

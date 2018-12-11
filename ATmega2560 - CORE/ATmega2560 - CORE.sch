@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ATmega2560 - CORE-cache
 EELAYER 26 0
 EELAYER END
 $Descr B 17000 11000
@@ -855,4 +856,9 @@ Wire Wire Line
 	11250 5550 11600 5550
 Wire Wire Line
 	11600 5650 11250 5650
+Text GLabel 3200 4200 2    50   Input ~ 0
+DTR
+Wire Wire Line
+	3200 4200 2950 4200
+Connection ~ 2950 4200
 $EndSCHEMATC

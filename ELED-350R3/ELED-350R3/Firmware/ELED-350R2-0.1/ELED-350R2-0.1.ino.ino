@@ -18,7 +18,7 @@ Button modeButton(11);
 
 void setup() {
   //serial enabled for debug
-  Serial.begin(300);
+  Serial.begin(1200);
   
   //set pin states
 //  pinMode(modeButton, INPUT);
@@ -45,7 +45,7 @@ if (modeButton.wasReleased())
 
 if (currentMode > 5)
 {
-  currentMode = 1;
+  currentMode = 0;
 }
 
 if (analogRead(controlInput) < 250)

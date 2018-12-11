@@ -18,7 +18,7 @@ Button modeButton(11);
 
 void setup() {
   //serial enabled for debug
-  Serial.begin(300);
+  Serial.begin(1200);
   
   //set pin states
 //  pinMode(modeButton, INPUT);
@@ -30,12 +30,23 @@ void setup() {
 }
 
 void loop() {
-Serial.println("Current Status");
-controlVariable = 20;
+//Serial.println("Current Status");
+//controlVariable = 20;
 
-analogWrite(string1PWM, (controlVariable * currentMode));
-analogWrite(string2PWM, (controlVariable * currentMode));
+//analogWrite(string1PWM, (controlVariable * currentMode));
+//analogWrite(string2PWM, (controlVariable * currentMode));
 
+//keeton fun
+analogWrite(string1PWM, (255));
+analogWrite(string2PWM, (0));
+
+delay(50);
+
+analogWrite(string1PWM, (0));
+analogWrite(string2PWM, (255));
+
+delay(50);
+/*
 modeButton.read();
 
 if (modeButton.wasReleased())
@@ -45,7 +56,7 @@ if (modeButton.wasReleased())
 
 if (currentMode > 5)
 {
-  currentMode = 1;
+  currentMode = 0;
 }
 
 if (analogRead(controlInput) < 250)
@@ -65,7 +76,7 @@ Serial.println(currentStatus);
 
 statusLED.blink((250 * currentMode));
 statusLED.update();
-
+*/
 }
 
 
