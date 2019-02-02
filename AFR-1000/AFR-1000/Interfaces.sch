@@ -161,4 +161,36 @@ Wire Wire Line
 	8050 5050 8050 4450
 Wire Wire Line
 	8050 4450 7950 4450
+$Comp
+L SamacSys_Parts:JD2-0001NL J?
+U 1 1 5C5947CE
+P 11100 5450
+F 0 "J?" H 11550 5715 50  0000 C CNN
+F 1 "JD2-0001NL" H 11550 5624 50  0000 C CNN
+F 2 "JD2-0001NL" H 11850 5550 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/JD2-0001NL.pdf" H 11850 5450 50  0001 L CNN
+F 4 "Modular Connectors / Ethernet Connectors 100Base-T NonPoE 1-Port RJ45 THT" H 11850 5350 50  0001 L CNN "Description"
+F 5 "" H 11850 5250 50  0001 L CNN "Height"
+F 6 "673-JD2-0001NL" H 11850 5150 50  0001 L CNN "Mouser Part Number"
+F 7 "Pulse" H 11850 5050 50  0001 L CNN "Manufacturer_Name"
+F 8 "JD2-0001NL" H 11850 4950 50  0001 L CNN "Manufacturer_Part_Number"
+	1    11100 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:W5500 IC?
+U 1 1 5C59492B
+P 13000 4650
+F 0 "IC?" H 14741 4146 50  0000 L CNN
+F 1 "W5500" H 14741 4055 50  0000 L CNN
+F 2 "QFP50P900X900X160-48N" H 14550 5150 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/W5500.pdf" H 14550 5050 50  0001 L CNN
+F 4 "Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY" H 14550 4950 50  0001 L CNN "Description"
+F 5 "1.6" H 14550 4850 50  0001 L CNN "Height"
+F 6 "950-W5500" H 14550 4750 50  0001 L CNN "Mouser Part Number"
+F 7 "WIZnet Inc" H 14550 4650 50  0001 L CNN "Manufacturer_Name"
+F 8 "W5500" H 14550 4550 50  0001 L CNN "Manufacturer_Part_Number"
+	1    13000 4650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
