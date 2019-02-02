@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24AA02E48T-I_OT
+D 2K 256X8 1.8V Ser.EEPROM,24AA02E48T-I/OT
+F https://componentsearchengine.com/Datasheets/1/24AA02E48T-I_OT.pdf
+$ENDCMP
+#
+$CMP 5787834-1
+D USB type B vertical thru-hole socket
+F https://componentsearchengine.com/Datasheets/1/5787834-1.pdf
+$ENDCMP
+#
+$CMP ATSAMD51P20A-AF
+D ARM Microcontrollers - MCU 120MHZ 1024KB Flash 128 TQFP PKG inTray  125CTemp
+F https://componentsearchengine.com/Datasheets/1/ATSAMD51P20A-AF.pdf
+$ENDCMP
+#
+$CMP DM3CS-SF
+D MicroSD card connector, push-pull type MicroSD card connector, push-pull type
+F https://componentsearchengine.com/Datasheets/1/DM3CS-SF.pdf
+$ENDCMP
+#
+$CMP FT234XD-R
+D USB/UART IC, w/USB Charge Detection FTDI Chip FT234XD-R, USB Controller, 3MBd, USB 1.1, USB 2.0, 5 V, 12-Pin DFN
+F https://componentsearchengine.com/Datasheets/1/FT234XD-R.pdf
+$ENDCMP
+#
+$CMP JD2-0001NL
+D Modular Connectors / Ethernet Connectors 100Base-T NonPoE 1-Port RJ45 THT
+F https://componentsearchengine.com/Datasheets/1/JD2-0001NL.pdf
+$ENDCMP
+#
+$CMP NE555D
+D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ST50S017VCAR1800
+D Memory Card Connectors UHS-II Compatible MicroSD Push - Push
+F https://componentsearchengine.com/Datasheets/1/ST50S017VCAR1800.pdf
+$ENDCMP
+#
+$CMP W25Q64JVSSIM_TR
+D IC FLASH 64MBIT SPI 8SOIC
+F https://componentsearchengine.com/Datasheets/1/W25Q64JVSSIM TR.pdf
+$ENDCMP
+#
+$CMP W5500
+D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
+F https://componentsearchengine.com/Datasheets/1/W5500.pdf
+$ENDCMP
+#
+#End Doc Library
