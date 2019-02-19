@@ -50,4 +50,16 @@ D Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY
 F https://componentsearchengine.com/Datasheets/1/W5500.pdf
 $ENDCMP
 #
+$CMP 2301995-3
+D TE Connectivity Cat6 RJ45 Modular Jack Socket, Nickel Plated Brass, Vertical, PCB Mount 2301995
+K
+F https://componentsearchengine.com/Datasheets/1/2301995-3.pdf
+$ENDCMP
+#
+$CMP 24AA025E48-I_SN
+D SER EEPROM, 2k, 256x8, 1.8V, 8 SOIC
+K
+F https://componentsearchengine.com/Datasheets/1/24AA025E48-I_SN.pdf
+$ENDCMP
+#
 #End Doc Library

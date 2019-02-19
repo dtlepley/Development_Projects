@@ -31,7 +31,7 @@ U 1 1 5C5918C2
 P 7300 3400
 F 0 "J?" H 7700 3035 50  0000 C CNN
 F 1 "5787834-1" H 7700 3126 50  0000 C CNN
-F 2 "5787834-1" H 7950 3500 50  0001 L CNN
+F 2 "" H 7950 3500 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/5787834-1.pdf" H 7950 3400 50  0001 L CNN
 F 4 "USB type B vertical thru-hole socket" H 7950 3300 50  0001 L CNN "Description"
 F 5 "" H 7950 3200 50  0001 L CNN "Height"
@@ -167,7 +167,7 @@ U 1 1 5C5947CE
 P 11100 5450
 F 0 "J?" H 11550 5715 50  0000 C CNN
 F 1 "JD2-0001NL" H 11550 5624 50  0000 C CNN
-F 2 "JD2-0001NL" H 11850 5550 50  0001 L CNN
+F 2 "" H 11850 5550 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/JD2-0001NL.pdf" H 11850 5450 50  0001 L CNN
 F 4 "Modular Connectors / Ethernet Connectors 100Base-T NonPoE 1-Port RJ45 THT" H 11850 5350 50  0001 L CNN "Description"
 F 5 "" H 11850 5250 50  0001 L CNN "Height"
@@ -183,7 +183,7 @@ U 1 1 5C59492B
 P 13000 4650
 F 0 "IC?" H 14741 4146 50  0000 L CNN
 F 1 "W5500" H 14741 4055 50  0000 L CNN
-F 2 "QFP50P900X900X160-48N" H 14550 5150 50  0001 L CNN
+F 2 "" H 14550 5150 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/W5500.pdf" H 14550 5050 50  0001 L CNN
 F 4 "Ethernet ICs 3in1 Enet Controller TCP/IP +MAC+PHY" H 14550 4950 50  0001 L CNN "Description"
 F 5 "1.6" H 14550 4850 50  0001 L CNN "Height"

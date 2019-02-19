@@ -20,7 +20,7 @@ U 1 1 5C65596B
 P 6900 2200
 F 0 "IC?" H 7150 2900 50  0000 L CNN
 F 1 "ATSAMD51P20A-AF" H 8550 2900 50  0000 L CNN
-F 2 "QFP40P1600X1600X120-128N" H 10450 2800 50  0001 L CNN
+F 2 "" H 10450 2800 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/ATSAMD51P20A-AF.pdf" H 10450 2700 50  0001 L CNN
 F 4 "ARM Microcontrollers - MCU 120MHZ 1024KB Flash 128 TQFP PKG inTray  125CTemp" H 10450 2600 50  0001 L CNN "Description"
 F 5 "1.2" H 10450 2500 50  0001 L CNN "Height"
@@ -1019,13 +1019,13 @@ D45
 Text GLabel 10000 4700 2    50   Input ~ 0
 D44
 Text GLabel 10000 4600 2    50   Input ~ 0
-D10
+D41
 Text GLabel 10000 4500 2    50   Input ~ 0
-D11
+D40
 Text GLabel 10000 4400 2    50   Input ~ 0
-D12
+D43
 Text GLabel 10000 4300 2    50   Input ~ 0
-D13
+D42
 Text GLabel 10000 4200 2    50   Input ~ 0
 SDA_1
 Text GLabel 10000 4100 2    50   Input ~ 0
@@ -1349,7 +1349,7 @@ U 1 1 5CAF9EE4
 P 1450 9400
 F 0 "IC?" H 2550 9665 50  0000 C CNN
 F 1 "W25Q64JVSSIM_TR" H 2550 9574 50  0000 C CNN
-F 2 "SOIC127P790X216-8N" H 3500 9500 50  0001 L CNN
+F 2 "" H 3500 9500 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/W25Q64JVSSIM TR.pdf" H 3500 9400 50  0001 L CNN
 F 4 "IC FLASH 64MBIT SPI 8SOIC" H 3500 9300 50  0001 L CNN "Description"
 F 5 "2.16" H 3500 9200 50  0001 L CNN "Height"
@@ -1442,7 +1442,7 @@ U 1 1 5CC606D7
 P 1550 7850
 F 0 "J?" H 2550 8115 50  0000 C CNN
 F 1 "DM3CS-SF" H 2550 8024 50  0000 C CNN
-F 2 "DM3CS-SF" H 3400 7950 50  0001 L CNN
+F 2 "" H 3400 7950 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/DM3CS-SF.pdf" H 3400 7850 50  0001 L CNN
 F 4 "MicroSD card connector, push-pull type MicroSD card connector, push-pull type" H 3400 7750 50  0001 L CNN "Description"
 F 5 "" H 3400 7650 50  0001 L CNN "Height"
@@ -1670,7 +1670,7 @@ U 1 1 5C76207E
 P 2200 3800
 F 0 "J?" H 2600 3435 50  0000 C CNN
 F 1 "5787834-1" H 2600 3526 50  0000 C CNN
-F 2 "5787834-1" H 2850 3900 50  0001 L CNN
+F 2 "" H 2850 3900 50  0001 L CNN
 F 3 "https://componentsearchengine.com/Datasheets/1/5787834-1.pdf" H 2850 3800 50  0001 L CNN
 F 4 "USB type B vertical thru-hole socket" H 2850 3700 50  0001 L CNN "Description"
 F 5 "" H 2850 3600 50  0001 L CNN "Height"
